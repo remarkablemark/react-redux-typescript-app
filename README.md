@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# React Redux TypeScript App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+- [Blog post](https://b.remarkabl.org/2RYxRyh)
+- [CodeSandbox](https://codesandbox.io/s/react-redux-typescript-oof6n)
+- [YouTube video](https://youtu.be/upcZZAN7Gt8)
 
 ## Available Scripts
 
